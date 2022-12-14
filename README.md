@@ -16,5 +16,6 @@
 
  **.then():**
 - Redux.toolkit, Redux 🕓
+- TypeScript 🕓
 - Tailwind🕓
 - Next.js 🕓

@@ -1,16 +1,17 @@
-### Hi there 👋
+# 👽💀👹
+### Hey there! I am using WhatsApp(Sorry. so bad joke)
 
-<!--
-**xyesey/xyesey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Relatively recently, I plunged into the world of programming and I think it's a good idea to celebrate my progress result here.
 
-Here are some ideas to get you started:
+**And so that's what I've achieved:**
+-Of course HTML and CSS (BEM, Adaptive, flex, grid, animation) 
+-Of course GitHub
+-JavaScript (DOM, OOP in JS, Closurse and othe)✅ >(In the process of reading YDKJS)🔁
+-Webpack, Gulp
+-Rest Api ✅
+-Sass,Scss
+-React (Routers,Select,Query)✅ > (In the process of reading all documentations)🔁
+-Node.js and express.js, MongoDB, Insomnia (only base knowledge for easy server)🆙
+-telegraf.js(50/50, just for my interest of creating a bot)🆙
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-.then(Redux.toolkit, Redux, Tailwind, Next.js)🕓

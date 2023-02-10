@@ -13,9 +13,9 @@
 - React (Routers,Select,Query)✅ > (In the process of reading all documentations)🔁
 - Node.js and express.js, MongoDB, Insomnia (only base knowledge for easy server)🆙
 - telegraf.js(50/50, just for my interest of creating a bot)🆙
+- Redux.toolkit, Redux, MobX ✅
 
  **.then():**
-- Redux.toolkit, Redux 🕓
 - TypeScript 🕓
 - Tailwind🕓
 - Next.js 🕓

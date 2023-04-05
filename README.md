@@ -14,8 +14,9 @@
 - Node.js and express.js, MongoDB, Insomnia (only base knowledge for easy server)🆙
 - telegraf.js(50/50, just for my interest of creating a bot)🆙
 - Redux.toolkit, Redux, MobX ✅
+- Tailwind, AntDisign, Material-UI🔁
+- TypeScript 🔁
+
 
  **.then():**
-- TypeScript 🕓
-- Tailwind🕓
 - Next.js 🕓

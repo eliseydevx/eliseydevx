@@ -30,7 +30,7 @@
 <a href="https://www.instagram.com/xyesey" target="blank" align="center">
 <img src="./images/icons8-instagram-48.png" width="40" />
 </a>
-<a href="https://t.me/xyesey" target="blank" align="center">
+<a href="https://t.me/eliseydev" target="blank" align="center">
 <img src="./images/icons8-телеграмма-app-48.png" width="40" />
 </a>
 </p>

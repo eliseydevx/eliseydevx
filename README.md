@@ -35,4 +35,4 @@
 </a>
 </p>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=xyesey)](https://github.com/xyesey/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=eliseydevx)](https://github.com/eliseydevx/github-readme-stats)
